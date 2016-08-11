@@ -1,2 +1,2 @@
-RACK_ENV=production
-RAILS_ENV=production
+RACK_ENV=development
+RAILS_ENV=development
